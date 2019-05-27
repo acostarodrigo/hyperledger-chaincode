@@ -1,7 +1,7 @@
 {
     "name": "papercontract",
     "version": "0.0.1",
-    "description": "SHIELD Papernet Contract",
+    "description": "SHIELD Commercial Paper Contract",
     "main": "index.js",
     "engines": {
         "node": ">=8",
@@ -25,6 +25,8 @@
         "chai": "^4.1.2",
         "chai-as-promised": "^7.1.1",
         "eslint": "^4.19.1",
+        "fabric-client": "^1.4.1",
+        "fabric-network": "^1.4.1",
         "mocha": "^5.2.0",
         "nyc": "^12.0.2",
         "sinon": "^6.0.0",
